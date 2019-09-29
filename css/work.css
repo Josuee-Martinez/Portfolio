@@ -108,15 +108,12 @@ p:last-of-type {
 
 @media (min-width: 37rem) {
   .project {
-    width: 50%;
+    width: 33.3%;
     float: left;
   }
-}
 
-@media (min-width: 60rem) {
-  .project {
-    width: 50%;
-    overflow: hidden;
+  .button {
+    margin-top: 1em;
   }
 }
 
